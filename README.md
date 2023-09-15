@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/github/ELadrimonos/3enraya.svg)](https://wakatime.com/badge/github/ELadrimonos/3enraya)
 # APB
 
 CFGS Desenrotllament d'Aplicacions Web
